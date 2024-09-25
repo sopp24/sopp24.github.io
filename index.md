@@ -1,3 +1,4 @@
+_config.yml
 # Adam Soppelsa
 
 ## À propos de moi
